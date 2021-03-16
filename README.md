@@ -1,1 +1,1 @@
-# python_project
+# pyrhon_project
